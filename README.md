@@ -68,6 +68,7 @@ Embed user query
 ## Project Structure
 
 rag-pdf-chat/
+
 ├── ingest.py (Document ingestion and indexing)
 
 ├── query.py (Retrieval and generation pipeline)
