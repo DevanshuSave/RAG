@@ -68,10 +68,15 @@ Embed user query
 ## Project Structure
 
 rag-pdf-chat/
-├── ingest.py # Document ingestion and indexing
-├── query.py # Retrieval and generation pipeline
+├── ingest.py (Document ingestion and indexing)
+
+├── query.py (Retrieval and generation pipeline)
+
 ├── requirements.txt
+
 ├── README.md
-├── data/ # Input PDFs (gitignored)
-├── storage/ # FAISS index + docstore (gitignored)
----
+
+├── data/ (Input PDFs)
+
+├── storage/ (FAISS index + docstore)
+
